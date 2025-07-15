@@ -9,11 +9,15 @@ export const AboutMe = () =>{
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div className="space-y-6 "> 
-                    <h3 className="text-2xl font-semibold">Passionage Web Developer & Tech Creater</h3>
+                    <h3 className="text-2xl font-semibold">Passionage Web Developer</h3>
 
-                    <p className="text-muted-foreground">I have 1.2 years of experience working as a Web Developer, where I worked on both frontend and backend development. </p>
-                    <p className="text-muted-foreground">My skill set includes HTML, CSS, JavaScript, PHP, MySQL, and React.js. I’ve built several dynamic websites and contributed to both UI/UX improvements and database integration.</p>
+{/*                     <p className="text-muted-foreground">I have 1.2 years of experience working as a Web Developer, where I worked on both frontend and backend development. </p> */}
+{/*                     <p className="text-muted-foreground">My skill set includes HTML, CSS, JavaScript, PHP, MySQL, and React.js. I’ve built several dynamic websites and contributed to both UI/UX improvements and database integration.</p> */}
+<p className="text-muted-foreground">I’m a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building modern web applications that solve real-world problems and provide seamless user experiences.</p>
 
+<p className="text-muted-foreground">I've worked on personal and freelance projects, where I developed both frontend interfaces and backend APIs. I'm experienced with version control using Git, deploying apps on Vercel and Render, and integrating RESTful services.</p>
+
+<p className="text-muted-foreground">Currently, I’m seeking a remote role where I can contribute to a dynamic team, grow my skills, and help build scalable, production-ready applications.</p>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">
                             {" "}
