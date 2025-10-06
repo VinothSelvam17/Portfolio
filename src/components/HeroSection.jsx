@@ -6,9 +6,13 @@ export const HeroSection =() =>{
      >
         <div className="container max--w-4xl mx-auto text-center z-10">
             <div className="space-y-6">
-               <h1 className="text-4xl font-bold text-white">
-  Hi, I'm <span className="text-blue-400">Vinoth Selvam</span>
-</h1>
+              <h1 className="text-4xl md-text-6xl font-bold tracking-tight">
+                    <span className="opacity-0 animate-fade-in">Hi, I'm  </span>
+                    <span className="text-primary opacity-0 animate-fade-in">Vinoth</span>
+                    <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
+                        {" "}
+                        Selvam</span>
+                </h1>
 <p className="mt-2 text-lg text-gray-300">
   Frontend Developer | React.js | Crafting clean, responsive, and dynamic web apps.
 </p>
