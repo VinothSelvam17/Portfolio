@@ -17,7 +17,7 @@ export const AboutMe = () =>{
 
 <p className="text-muted-foreground">I've worked on personal and freelance projects, where I developed both frontend interfaces and backend APIs. I'm experienced with version control using Git, deploying apps on Vercel and Render, and integrating RESTful services.</p>
 
-<p className="text-muted-foreground">Currently, I’m seeking a remote role where I can contribute to a dynamic team, grow my skills, and help build scalable, production-ready applications.</p>
+<p className="text-muted-foreground">Currently, I’m seeking a Front-End Developer role where I can contribute to a dynamic team, grow my skills, and help build scalable, production-ready applications.</p>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">
                             {" "}
