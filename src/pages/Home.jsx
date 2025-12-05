@@ -13,7 +13,7 @@ export const Home = () => {
         {/*  theme Toggle  */}
         <ThemeToggle/>
         {/*  Background Effects  */}
-        {/* <StarBakground></StarBakground> */}
+        <StarBakground></StarBakground> 
         {/*  Navbar */}
         <Navbar/>
         {/*  Main Content  */}
